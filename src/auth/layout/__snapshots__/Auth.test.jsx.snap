@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in <Auth /> Can be match with snapshot. 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-ro1yt6-MuiGrid-root"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 box-shadow animate__animated animate__fadeInDown css-1ar3nvi-MuiGrid-root"
+    >
+      <h5
+        class="MuiTypography-root MuiTypography-h5 css-1jcm1rz-MuiTypography-root"
+      >
+        Title layout
+      </h5>
+      <h1>
+        Children Layout
+      </h1>
+    </div>
+  </div>
+</div>
+`;
